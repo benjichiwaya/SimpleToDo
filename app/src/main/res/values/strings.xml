@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleToDo</string>
+    <string name="add">Add Item</string>
+    <string name="error_reading">Error reading file</string>
+    <string name="error_writing">Error writing files</string>
+    <string name="storage_file_name">Data.txt</string>
+    <string name="success_message_adding">Item added to list</string>
+    <string name="success_message_removing">Item removed</string>
+</resources>
